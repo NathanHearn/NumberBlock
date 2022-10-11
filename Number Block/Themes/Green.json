@@ -1,0 +1,10 @@
+{
+    "backgroundColour" : [0.800, 0.798, 0.762, 1],
+    "textColour" : [1, 0.992, 0.890, 1],
+    "orangeColour" : [0.813, 0.539, 0.434, 1],
+    "redColour" : [0.666, 0.273, 0.234, 1],
+    "greenColour" : [0.379, 0.780, 0.539, 1],
+    "blueColour" : [0.480, 0.676, 0.777, 1],
+    "requiredLevel" : 3,
+}
+
